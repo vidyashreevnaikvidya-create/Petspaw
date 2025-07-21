@@ -44,3 +44,8 @@ symptom-checker/ - take user input and return advice
 
 breed-classifier/ - image-based breed prediction
 
+🙋‍♀ Author
+Vidyashree V Naik
+💼 BTech in CSE
+🏫 Sapthagiri College of Engineering
+
