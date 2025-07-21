@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.input {
+  @apply w-full px-3 py-2 border rounded-lg mb-3 focus:outline-none;
+}
+
+.btn {
+  @apply bg-pink-500 text-white px-4 py-2 rounded-lg w-full hover:bg-pink-600;
+}
